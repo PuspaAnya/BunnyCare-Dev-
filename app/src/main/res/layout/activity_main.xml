@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="51dp"
+        android:text="SAYANGI KELINCIMU DENGAN SEPENUH HATI :)"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/konsul"
+        android:layout_width="130dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="150dp"
+        android:text="Konsultasi" />
+
+    <Button
+        android:id="@+id/merawat"
+        android:layout_width="130dp"
+        android:layout_height="70dp"
+        android:layout_alignTop="@+id/konsul"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="55dp"
+        android:text="Merawat" />
+
+    <Button
+        android:id="@+id/jenis"
+        android:layout_width="130dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="240dp"
+        android:text="Jenis Kelinci" />
+
+    <Button
+        android:id="@+id/tentang"
+        android:layout_width="130dp"
+        android:layout_height="70dp"
+        android:layout_alignTop="@+id/jenis"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="55dp"
+        android:text="Tentang" />
+
+</RelativeLayout>

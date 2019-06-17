@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990124043542",
+    "firebase_url": "https://bunny1-7db02.firebaseio.com",
+    "project_id": "bunny1-7db02",
+    "storage_bucket": "bunny1-7db02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990124043542:android:9ad3c9aa46e9201c",
+        "android_client_info": {
+          "package_name": "com.example.tamarapuspa.bunny1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990124043542-3n81p7qsekfaks0r75cedol5klr25c9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tamarapuspa.bunny1",
+            "certificate_hash": "16b069a829e38e43d07fd3082a71f86269f397ba"
+          }
+        },
+        {
+          "client_id": "990124043542-oe6356vbhder0o9e8pkfg3e4emgv7flj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Tu9nhSAQhyI91hSt4K1BjJ00ZnJzEbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990124043542-oe6356vbhder0o9e8pkfg3e4emgv7flj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
